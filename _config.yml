@@ -14,7 +14,7 @@ tagline:             'Musings of a CS Student'
 description:         'A personal blog involving rants varying from code development to random observations on the internet. This site was built with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.'
 url:                 http://jankdc.com
 baseurl:             /
-paginate:            1
+paginate:            10
 
 # About/contact
 author:
